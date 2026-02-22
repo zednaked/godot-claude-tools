@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # install.sh — Configura godot-claude-tools para Claude Code nesta máquina
-# Repo: https://github.com/zedhssv/godot-claude-tools
-# Uso: git clone https://github.com/zedhssv/godot-claude-tools && bash godot-claude-tools/install.sh
+# Repo: https://github.com/zednaked/godot-claude-tools
+# Uso: git clone https://github.com/zednaked/godot-claude-tools && bash godot-claude-tools/install.sh
 
 set -e
 

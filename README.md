@@ -5,7 +5,7 @@ Scripts que Claude Code usa antes de ler arquivos Godot, reduzindo tokens drasti
 ## Instalação
 
 ```bash
-git clone https://github.com/zedhssv/godot-claude-tools
+git clone https://github.com/zednaked/godot-claude-tools
 bash godot-claude-tools/install.sh
 ```
 
